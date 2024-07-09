@@ -70,12 +70,6 @@ bash
 
     Open your browser and navigate to http://localhost:3000 to see the application running.
 
-Project Structure
-
-The project structure is organized as follows:
-
-//Put structure of the project at the end
-
 Technologies Used
 
     React: A JavaScript library for building user interfaces.
